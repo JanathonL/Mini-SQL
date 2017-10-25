@@ -1,0 +1,48 @@
+﻿  RecordManager.cpp
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\bplustree.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“bplus_node”的左侧
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\bplustree.h(57): warning C4154: 删除数组表达式；转换到提供的指针
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(67): warning C4018: “<”: 有符号/无符号不匹配
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(93): warning C4018: “<”: 有符号/无符号不匹配
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(95): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(133): warning C4018: “<”: 有符号/无符号不匹配
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(135): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(178): warning C4018: “<”: 有符号/无符号不匹配
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(179): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(180): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(276): warning C4018: “<”: 有符号/无符号不匹配
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(278): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(280): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(288): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(299): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(363): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(387): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(413): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(420): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(535): warning C4018: “<”: 有符号/无符号不匹配
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(578): warning C4018: “<”: 有符号/无符号不匹配
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(537): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(657): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\kuaipan\sync\code\vs2015project\myminisql正式版v1.1\myminisql\myminisql\recordmanager.cpp(678): warning C4018: “<”: 有符号/无符号不匹配
+  MyMiniSql.vcxproj -> C:\kuaipan\sync\code\VS2015project\MyMiniSql正式版V1.1\MyMiniSql\Debug\MyMiniSql.exe

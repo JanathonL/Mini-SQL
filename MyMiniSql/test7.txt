@@ -1,0 +1,2 @@
+select * from t2 where num1 > 20;
+select * from t2 where num2 > 20;

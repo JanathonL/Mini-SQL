@@ -1,0 +1,2 @@
+drop index name on t1;
+drop table t2;

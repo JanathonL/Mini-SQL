@@ -1,0 +1,20 @@
+drop table b;
+create table b (
+     name char(10) unique,
+     age   int,
+     grade float,
+    primary key (age)
+)
+create index in on b(name);
+insert into b values ('ljt',1,2.33);
+insert into b values ('awx',2,2.33);
+insert into b values ('lalala',3,2.33);
+select * from b;
+select * from b where age <= 2;
+select name from b where age <= 2;
+select name from b;
+delete from b where name = 'lalala';
+select * from b;
+delete * from b;
+select * from b;
+drop index in on b;
